@@ -52,3 +52,24 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | cat | The command ran (kinda like history)|
 | head | The head of the command |
 
+
+
+## PERMISSIONS
+__There are basically three types of permissions in linux__
+1.	Read – permission to view content
+2.	Write – permission to modify/add
+3.	Execute – permission to ran a program
+
+__These permissions have number values to represent them__
+-	Read(r) – 4
+-	Write(w) – 2
+-	Execute(x) – 1
+Sample permission string
+__-rwx -r-x -r-x__
+
+__This string is devided into three parts__
+1.	(-) or (-D) for a file or directory
+2.	(rwx) for a read,write and execute permission for the creator
+3.	(r-x) for the read and execute permission for the group of users(sort of)
+4.	(r-x) for the read + execute permission for everyone logged into the system
+

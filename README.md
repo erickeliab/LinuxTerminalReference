@@ -21,3 +21,9 @@ This is the one piece of the whole that is actually called Linux. The kernel is 
 
 ## What is Linux Terminal/Console ?
 The Linux console is a system console internal to the Linux kernel. The Linux console provides a way for the kernel and other processes to send text output to the user, and to receive text input from the user. The user typically enters text with a computer keyboard and reads the output text on a computer monitor.
+
+
+## BASIC LINUX COMMANDS
+
+| COMMANDS | PURPOSE
+| ------------- |-----:|

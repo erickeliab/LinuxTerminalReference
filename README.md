@@ -25,5 +25,11 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 
 ## BASIC LINUX COMMANDS
 
-| COMMANDS | PURPOSE
-| ------------- |-----:|
+| COMMANDS | PURPOSE |
+| -------- |-----:|
+|Ctrl + l / clear | Clears the screen |
+| uname  | Gives the environment name of the system |
+| q |quit|
+| man |Gives a manual |
+| uptime | Gives uptime details of the system (active time)|
+| cd | change directory |

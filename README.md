@@ -48,7 +48,7 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | rm | Remove |
 | rm -r | Recursively delete|
 | touch | Creates a file |
-| cat | The command ran (kinda like history)|
 | history | Shows the commands applied before on a file/folder|
+| cat | The command ran (kinda like history)|
 | head | The head of the command |
 

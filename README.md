@@ -40,4 +40,15 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | ls -l | long list of files in the current directory |
 | alias | create aliases |
 | ls -a | list all files incluiding the hidden files in the directory |
+| date | display today's date |
+| cal | calculator (for nerds ) |
+| w | Users using the system |
+| whoami | The current logged in user|
+| whereis | Gives the location of the utility/program in current directory |
+| rm | Remove |
+| rm -r | Recursively delete|
+| touch | Creates a file |
+| cat | The command ran (kinda like history)|
+| history | Shows the commands applied before on a file/folder|
+| head | The head of the command |
 

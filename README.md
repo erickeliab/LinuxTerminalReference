@@ -33,3 +33,11 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | man |Gives a manual |
 | uptime | Gives uptime details of the system (active time)|
 | cd | change directory |
+| cd.. | one directory back |
+| pwd | gives the present working directory |
+| ls | list files in the current directory |
+| mkdr | make a new directory |
+| ls -l | long list of files in the current directory |
+| alias | create aliases |
+| ls -a | list all files incluiding the hidden files in the directory |
+

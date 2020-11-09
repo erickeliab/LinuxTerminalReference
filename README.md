@@ -57,7 +57,13 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | # mtr google.com | Investigate the connection network over google.com |
 | Ctrl-x-e | Prompts and starts working in cheat sheet  |
 | nl | Number the lines of a file |
+| shuf | Randomly select lines/files/foler from files/folder |
 | head | The head of the command |
+| head | The head of the command |
+| head | The head of the command |
+| head | The head of the command |
+| head | The head of the command |
+
 
 
 

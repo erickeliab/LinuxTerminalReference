@@ -56,7 +56,7 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | $ sudo apt-get install mtr (On Debian based Systems) | In case mtr is not installed into your machine, apt or yum the required package |
 | # mtr google.com | Investigate the connection network over google.com |
 | Ctrl-x-e | Prompts and starts working in cheat sheet  |
-| head | The head of the command |
+| nl | Number the lines of a file |
 | head | The head of the command |
 
 

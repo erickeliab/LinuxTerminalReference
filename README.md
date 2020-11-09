@@ -58,11 +58,11 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | Ctrl-x-e | Prompts and starts working in cheat sheet  |
 | nl | Number the lines of a file |
 | shuf | Randomly select lines/files/foler from files/folder |
-| head | The head of the command |
-| head | The head of the command |
-| head | The head of the command |
-| head | The head of the command |
-| head | The head of the command |
+| last | Shows the history of the last logged in user |
+| curl | You obtain your external IP Adress using google |
+| tree | Get the folder structure in tree like format |
+| pstree | This command shows all the processes and the subprocesses running in a tree like structure |
+| -v / --version | Shows the version of a particular package or software installed |
 
 
 

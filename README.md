@@ -52,9 +52,8 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | cat | The command ran (kinda like history)|
 | head | The head of the command |
 | !! (sudo) | instead of using sudo use !! at the end of the line |
-| python -m SimpleHTTPServer | generates a simple web page over HTTP for the directory structure tree 
-and can be accessed at port 8000 in browser till interrupt signal is sent. |
-| head | The head of the command |
+| python -m SimpleHTTPServer | generates a simple web page over HTTP for the directory structure tree and can be accessed at port 8000 in browser till interrupt signal is sent.|
+| $ sudo apt-get install mtr (On Debian based Systems) | In case mtr is not installed into your machine, apt or yum the required package |
 | head | The head of the command |
 | head | The head of the command |
 

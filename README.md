@@ -51,6 +51,7 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 | history | Shows the commands applied before on a file/folder|
 | cat | The command ran (kinda like history)|
 | head | The head of the command |
+| !! (sudo) | instead of using sudo use !! at the end of the line |
 
 
 

@@ -1,5 +1,5 @@
 # LinuxTerminalReference
-Basic linux terminal commands for programmer
+Basic linux terminal commands for programmers
 
 ## What is Linux 
 

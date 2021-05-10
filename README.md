@@ -72,7 +72,7 @@ The Linux console is a system console internal to the Linux kernel. The Linux co
 __There are basically three types of permissions in linux__
 1.	Read – permission to view content
 2.	Write – permission to modify/add
-3.	Execute – permission to ran a program
+3.	Execute – permission to run a program
 
 __These permissions have number values to represent them__
 -	Read(r) – 4
